@@ -24,7 +24,7 @@ npm install
 ```
 
 ## Usage 
-To run the test, cd into seleium-js and run:
+To run the test:
 
 ```
 node tests/HomepageTest.js
