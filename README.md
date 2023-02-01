@@ -1,4 +1,4 @@
-# Selenium WebDriver & JavaScript Test With Page Object Model
+# Selenium WebDriver & JavaScript Test Framework With Page Object Model
 
 ## Installation
 
