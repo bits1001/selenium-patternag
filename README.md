@@ -9,8 +9,8 @@ The drivers for Chrome, Firefox web browsers are all standalone executables that
 
 | Browser  | Component |
 | ------------- | ------------- |
-| Chrome  | [	chromedriver(.exe)](http://chromedriver.storage.googleapis.com/index.html "chromedriver")  |
-| Firefox  | [geckodriver(.exe)](https://github.com/mozilla/geckodriver/releases/ "geckodriver(.exe)")  |
+| Chrome  | [	chromedriver](https://chromedriver.chromium.org/downloads "chromedriver")  |
+| Firefox  | [geckodriver](https://github.com/mozilla/geckodriver/releases "geckodriver")  |
 
 
 After you done with that.
