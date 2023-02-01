@@ -2,7 +2,7 @@
 
 **Important**
 
-In order to run the tests and use Selenium, you need to download seperetable executables which controls a browser.
+In order to run the tests and use Selenium, you need to download seperate executables which controls the browser.
 
 The drivers for Chrome, Firefox web browsers are all standalone executables that should be placed on your system [PATH](http://en.wikipedia.org/wiki/PATH_%28variable%29 "PATH")
 
